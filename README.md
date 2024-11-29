@@ -46,9 +46,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- Java -->
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
- <!-- CSharp -->
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
 <!-- HTML -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -104,8 +101,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- GitLab -->
 <img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
-<!-- NPM -->
-<img align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<!-- Docker -->
+<img align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
 <!-- Bash -->
 <img align="left" alt="Bash/Shell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
