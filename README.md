@@ -17,9 +17,9 @@
 </p>
 
 <!-- Introduction -->
-- 🌱 I’m currently learning VR
+- 🌱 I’m currently learning Embedded Software
 - 👯 I’m looking to collaborate with others
-- 🥅 2025 Goals: Learn more about VR
+- 🥅 2025 Goals: Learn more about Embedded Systems
 - ⚡ Fun fact: E-Sport player
 
 <hr>
@@ -40,18 +40,17 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- Golang -->
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
-<!-- Kotlin -->
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<!-- C -->
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<!-- Java -->
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<!-- C++ -->
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <!-- HTML -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<!-- CSS -->
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
+<!-- Rust -->
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 
 &#8287;
 
