@@ -1,10 +1,10 @@
 <!-- Titre -->
 # Steven YAMBOS
 
-<strong><code>Full-Stack Developer</code></strong>
+<strong><code>Back-End Developer</code></strong>
 
 <!-- Description -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+and+Mobile+Developer;Open+to+collaboration+and+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Open+to+collaboration)](https://git.io/typing-svg)
 
 
 <!-- Réseaux sociaux -->
@@ -17,22 +17,19 @@
 </p>
 
 <!-- Introduction -->
-- 🌱 I’m currently learning Embedded Software
-- 👯 I’m looking to collaborate with others
-- 🥅 2025 Goals: Learn more about Embedded Systems
-- ⚡ Fun fact: E-Sport player
+- I’m currently learning **Embedded Software**
+- I’m looking to collaborate with others
+- 2025 Goals: Learn more about **low level languages**
+- Fun fact: E-Sport player
 
-<hr>
+---
 
 <!-- Technologies -->
-## 🛠️ Technologies
+## Technologies
 
 Here are the technologies I work with daily to create efficient, scalable, and user-friendly applications :  
 
 ### Languages
-
-<!-- Javascript -->
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <!-- Typescript -->
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -40,37 +37,28 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- Golang -->
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
-<!-- C -->
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-<!-- C++ -->
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
-<!-- HTML -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
 <!-- Rust -->
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 
 &#8287;
 
-### Frameworks
+### Cloud Providers
 
-<!-- Angular -->
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<!-- AWS -->
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<!-- React -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<!-- Google Cloud Plateform -->
+<img align="left" alt="Google Cloud Plateform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
 
-<!-- Spring Boot -->
-<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
+<!-- Digital Ocean -->
+<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
+          
 <!-- Node -->
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 &#8287;
 
-### Database
+### Databases
 
 <!-- MongoDB -->
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -81,15 +69,15 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- Firebase -->
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
+<!-- Supabase -->
+<img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />    
+
 &#8287;
 
 ### Tools
 
-<!-- VSCode -->
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<!-- Android Studio -->
-<img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<!-- Docker -->
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
 <!-- Git -->
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -100,14 +88,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <!-- GitLab -->
 <img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
-<!-- Docker -->
-<img align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
 <!-- Bash -->
 <img align="left" alt="Bash/Shell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-<!-- Postman -->
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 &#8287;
 
