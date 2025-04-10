@@ -1,10 +1,10 @@
 <!-- Titre -->
 # Steven YAMBOS
 
-<strong><code>Back-End Developer</code></strong>
+<strong><code>Mobile Developer</code></strong>
 
 <!-- Description -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Open+to+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Open+to+collaboration)](https://git.io/typing-svg)
 
 
 <!-- Réseaux sociaux -->
@@ -17,7 +17,7 @@
 </p>
 
 <!-- Introduction -->
-- I’m currently learning **Embedded Software**
+- I’m currently learning **Mobile devlopment**
 - I’m looking to collaborate with others
 - 2025 Goals: Learn more about **low level languages**
 - Fun fact: E-Sport player
@@ -31,14 +31,14 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 ### Languages
 
-<!-- Typescript -->
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<!-- Kotlin -->
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
 
 <!-- Golang -->
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
-<!-- Rust -->
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<!-- Typescript -->
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
 
 &#8287;
 
@@ -49,12 +49,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <!-- Google Cloud Plateform -->
 <img align="left" alt="Google Cloud Plateform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-
-<!-- Digital Ocean -->
-<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
-          
-<!-- Node -->
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 &#8287;
 
