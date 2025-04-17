@@ -1,10 +1,10 @@
 <!-- Titre -->
 # Steven YAMBOS
 
-<strong><code>Mobile Developer</code></strong>
+<strong><code>Back-End Developer</code></strong>
 
 <!-- Description -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mobile+Developer;Open+to+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+End+Developer;Open+to+collaboration)](https://git.io/typing-svg)
 
 
 <!-- Réseaux sociaux -->
@@ -17,7 +17,7 @@
 </p>
 
 <!-- Introduction -->
-- I’m currently learning **Mobile devlopment**
+- I’m currently learning **low level**
 - I’m looking to collaborate with others
 - 2025 Goals: Learn more about **low level languages**
 - Fun fact: E-Sport player
