@@ -86,7 +86,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 &#8287;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=material-palenight)
 
 <!-- <hr>
 
