@@ -31,14 +31,13 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 ### Languages
 
-<!-- Kotlin -->
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
-
 <!-- Golang -->
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 <!-- Typescript -->
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
+<!-- Kotlin -->
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
 
 &#8287;
 
@@ -86,6 +85,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <img align="left" alt="Bash/Shell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 &#8287;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight)
 
 <!-- <hr>
 
