@@ -17,9 +17,8 @@
 </p>
 
 <!-- Introduction -->
-- I’m currently learning **low level**
+- I’m currently learning **CLI app development**
 - I’m looking to collaborate with others
-- 2025 Goals: Learn more about **low level languages**
 - Fun fact: E-Sport player
 
 ---
@@ -36,8 +35,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <!-- Typescript -->
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
-<!-- Kotlin -->
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
 
 &#8287;
 
@@ -48,6 +45,9 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <!-- Google Cloud Plateform -->
 <img align="left" alt="Google Cloud Plateform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+
+<img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
+          
 
 &#8287;
 
@@ -86,7 +86,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 &#8287;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=material-palenight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=material-palenight) -->
 
 <!-- <hr>
 
