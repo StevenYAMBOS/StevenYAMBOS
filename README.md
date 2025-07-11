@@ -36,11 +36,11 @@
 
 ## About Me
 
-Currently working on **[Smash Here](https://smashhere.fr)** - A gaming roadmap platform  
-Learning **Android development with Kotlin & Jetpack Compose**  
-Looking to collaborate on **open-source projects**  
-Fun fact: **E-Sport player** and gaming content creator  
-Reach me at: **stevenyambos@gmail.com**
+- Currently working on **[Smash Here](https://smashhere.fr)** - A gaming roadmap platform  
+- Learning **Android development with Kotlin & Jetpack Compose**  
+- Looking to collaborate on **open-source projects**  
+- Fun fact: **E-Sport player** and gaming content creator  
+- Reach me at: **stevenyambos@gmail.com**
 
 ---
 
@@ -51,10 +51,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### 💻 Languages
 
 <p>
-  <img align="center" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Kotlin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Golang" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img align="center" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Kotlin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </p>
 
 ### ☁️ Cloud Providers
@@ -62,7 +60,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <p>
   <img align="center" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Digital Ocean" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
-  <img align="center" alt="Vercel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 </p>
 
 ### 🗄️ Databases
