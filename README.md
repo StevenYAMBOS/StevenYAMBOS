@@ -3,9 +3,9 @@
 <h1>Steven YAMBOS</h1>
 <h3>
   <sup>
-    <i>Back-End Developer <img alt="Android" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+    <i>Back-End Developer
   <br>
-  Content creator & Gaming enthusiast
+  <!-- Content creator -->
     </i>
   </sup>
 </h3>
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+End+Developer;Android+Developer;Content+Creator;Open+to+collaboration;Building+Smash+Here+🎮&font=Fira%20Code&center=true&width=440&height=45&color=00d4aa&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=0094d4&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,10 +36,10 @@
 
 ## About Me
 
-- Currently working on **[Smash Here](https://smashhere.fr)** - A gaming roadmap platform  
-- Learning **Android development with Kotlin & Jetpack Compose**  
+- Currently working on **[Smash Here](https://smashhere.fr)** - E-sport platform  
+- Learning **CLI App development**  
 - Looking to collaborate on **open-source projects**  
-- Fun fact: **E-Sport player** and gaming content creator  
+- Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
 
 ---
@@ -48,21 +48,21 @@
 
 Here are the technologies I work with daily to create efficient, scalable, and user-friendly applications:
 
-### 💻 Languages
+### Languages
 
 <p>
   <img align="center" alt="Golang" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img align="center" alt="Kotlin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
 
-### ☁️ Cloud Providers
+### Cloud providers
 
 <p>
   <img align="center" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Digital Ocean" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img align="center" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -71,7 +71,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
   <img align="center" alt="Supabase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 </p>
 
-### 🔧 Tools & Frameworks
+### Tools & Frameworks
 
 <p>
   <img align="center" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
@@ -84,9 +84,9 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 ---
 
-## Featured Project
+## Featured project
 
-### [Smash Here](https://smashhere.fr) - Gaming Roadmap Platform
+### [Smash Here](https://smashhere.fr) - E-sport platform
 
 > **Customized roadmaps • Structured progress • Active community**
 
@@ -123,7 +123,7 @@ A platform that transforms video game learning into structured and personalized 
 
 ---
 
-## Activity Graph
+## Activity graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenyambos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -133,7 +133,7 @@ A platform that transforms video game learning into structured and personalized 
 
 ## 🤝 Let's Connect!
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology and gaming!
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
 <div align="center">
 
@@ -144,7 +144,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 ---
 
-*"No risk no fun"* 🎮✨
+> *"No risk no fun"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenyambos&color=blueviolet&style=flat-square&label=Profile+Views)
 
