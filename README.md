@@ -37,7 +37,7 @@
 ## About Me
 
 - Currently working on **[Smash Here](https://smashhere.fr)** - E-sport platform  
-- Learning **Low level development**  
+- Learning **"Low level" development in Rust**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
