@@ -3,7 +3,7 @@
 <h1>Steven YAMBOS</h1>
 <h3>
   <sup>
-    <i>Mobile Developer
+    <i>Back End Developer
   <br>
   <!-- Content creator -->
     </i>
