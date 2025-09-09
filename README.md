@@ -34,7 +34,7 @@
 
 ---
 
-## About Me
+## About me
 
 - Currently working on **[Smash Here](https://smashhere.fr)** - E-sport platform  
 - Learning **low level programming**  
@@ -51,9 +51,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Languages
 
 <p>
+ <img align="center" alt="Golang logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Javascript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="C++ logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 ### Cloud providers
@@ -67,8 +66,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Databases
 
 <p>
-  <img align="center" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   <img align="center" alt="Supabase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 </p>
@@ -80,7 +79,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
   <img align="center" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="Android Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />          
+  <img align="center" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
 ---
@@ -99,7 +98,7 @@ A platform that transforms video game learning into structured and personalized 
 - **Mobile:** Kotlin + Jetpack Compose (in development)
 - **Cloud:** Digital Ocean + MongoDB Atlas
 
-[🌐 Visit Website](https://smashhere.fr) | [💻 Backend Code](https://github.com/StevenYAMBOS/Smash-Here-API) | [📱 Frontend Code](https://github.com/StevenYAMBOS/Smash-Here-App)
+[Visit Website](https://smashhere.fr) | [Backend Code](https://github.com/StevenYAMBOS/Smash-Here-API) | [Frontend Code](https://github.com/StevenYAMBOS/Smash-Here-App)
 
 ---
 
@@ -132,16 +131,16 @@ A platform that transforms video game learning into structured and personalized 
 
 ---
 
-## 🤝 Let's Connect!
+## Let's connect!
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
 <div align="center">
 
-**📧 Email:** [stevenyambos@gmail.com](mailto:stevenyambos@gmail.com)  
-**💼 LinkedIn:** [steven-yambos](https://www.linkedin.com/in/steven-yambos)  
-**🐦 Twitter:** [@StevenYambos](https://x.com/StevenYambos)  
-**🌐 Website:** [smashhere.fr](https://smashhere.fr)
+**Email:** [stevenyambos@gmail.com](mailto:stevenyambos@gmail.com)  
+**LinkedIn:** [steven-yambos](https://www.linkedin.com/in/steven-yambos)  
+**Twitter:** [@StevenYambos](https://x.com/StevenYambos)  
+**Website:** [smashhere.fr](https://smashhere.fr)
 
 ---
 
