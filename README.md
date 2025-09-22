@@ -95,7 +95,6 @@ A platform that transforms video game learning into structured and personalized 
 **Tech Stack:**
 - **Backend:** GoLang + MongoDB
 - **Frontend:** Vue.js + TypeScript  
-- **Mobile:** Kotlin + Jetpack Compose (in development)
 - **Cloud:** Digital Ocean + MongoDB Atlas
 
 [Visit Website](https://smashhere.fr) | [Backend Code](https://github.com/StevenYAMBOS/Smash-Here-API) | [Frontend Code](https://github.com/StevenYAMBOS/Smash-Here-App)
@@ -111,14 +110,6 @@ A platform that transforms video game learning into structured and personalized 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenyambos&theme=radical" alt="Steven's GitHub streak"/>
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stevenyambos&theme=radical&row=2&column=3" alt="Steven's GitHub Trophies"/>
 </div>
 
 ---
