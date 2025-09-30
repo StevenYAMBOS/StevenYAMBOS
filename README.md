@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Smash Here](https://smashhere.fr)** - E-sport platform  
-- Learning **low level programming**  
+- Learning **Android programming**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -51,8 +51,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Languages
 
 <p>
- <img align="center" alt="Golang logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Java logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </p>
 
 ### Cloud providers
