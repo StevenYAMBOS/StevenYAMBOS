@@ -92,20 +92,12 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 ---
 
-## Featured project
+## Featured projects
 
-### [Smash Here](https://smashhere.fr) - E-sport platform
-
-> **Customized roadmaps • Structured progress • Active community**
-
-A platform that transforms video game learning into structured and personalized journeys.
-
-**Tech Stack:**
-- **Backend:** GoLang + MongoDB
-- **Frontend:** Vue.js + TypeScript  
-- **Cloud:** Digital Ocean + MongoDB Atlas
-
-[Visit Website](https://smashhere.fr) | [Backend Code](https://github.com/StevenYAMBOS/Smash-Here-API) | [Frontend Code](https://github.com/StevenYAMBOS/Smash-Here-App)
+| Project | Description | Technologies |
+|---------------|------------|-----------------|
+| [**Waitify**](https://github.com/StevenYAMBOS/waitify-api) | Virtual queue management system | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) |
+| [**Smash Here**](https://smashhere.fr) | E-sport platform | 	[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) |
 
 ---
 
@@ -139,7 +131,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 **Email:** [stevenyambos@gmail.com](mailto:stevenyambos@gmail.com)  
 **LinkedIn:** [steven-yambos](https://www.linkedin.com/in/steven-yambos)  
 **Twitter:** [@StevenYambos](https://x.com/StevenYambos)  
-**Website:** [smashhere.fr](https://smashhere.fr)
+**Website:** [smashhere.fr](https://stevenyambos.fr)
 
 ---
 
