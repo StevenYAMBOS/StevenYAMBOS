@@ -131,7 +131,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 **Email:** [stevenyambos@gmail.com](mailto:stevenyambos@gmail.com)  
 **LinkedIn:** [steven-yambos](https://www.linkedin.com/in/steven-yambos)  
 **Twitter:** [@StevenYambos](https://x.com/StevenYambos)  
-**Website:** [smashhere.fr](https://stevenyambos.fr)
+**Website:** [stevenyambos.fr](https://stevenyambos.fr)
 
 ---
 
