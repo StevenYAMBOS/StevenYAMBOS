@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **low level programming with Rust**  
+- Learning **system programming**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
