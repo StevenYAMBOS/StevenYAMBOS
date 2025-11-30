@@ -23,8 +23,8 @@
     <img width="32px" alt="Stack Overflow Steven YAMBOS" title="Stack Overflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://smashhere.fr" target="_blank">
-    <img width="32px" alt="Smash Here" title="Smash Here - My Gaming Platform" src="https://img.icons8.com/color/48/controller.png" />
+  <a href="https://stevenyambos.fr" target="_blank">
+    <img width="32px" alt="Portfolio" title="Steven YAMBOS - Backend Developer" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **software architectures & Android development**  
+- Learning **software architectures & serverless**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,7 +52,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
  <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Golang logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 </p>
 
