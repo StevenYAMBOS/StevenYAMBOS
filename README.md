@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **software architectures & serverless**  
+- Learning **software architectures & Android development**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,8 +52,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
  <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Golang logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+ <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </p>
 
 ### Environments
