@@ -3,7 +3,7 @@
 <h1>Steven YAMBOS</h1>
 <h3>
   <sup>
-    <i>Mobile Developer
+    <i>Back End Developer
   <br>
   <!-- Content creator -->
     </i>
@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **Android development**  
+- Learning **software architectures & serverless**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **E-Sport player** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -51,16 +51,13 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Languages
 
 <p>
-  <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Java logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
  <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Golang logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 </p>
 
 ### Environments
 
 <p>
- <img align="center" alt="Android logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
- <img align="center" alt="Spring logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
  <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="Node.js logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </p>
@@ -85,13 +82,11 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Tools & frameworks
 
 <p>
-  <img align="center" alt="JetPack Compose" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img align="center" alt="Android Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Gradle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-  <img align="center" alt="Maven" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img align="center" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="GitHub Actions" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" />
   <img align="center" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Jest" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </p>
 
 ---
@@ -108,12 +103,12 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=whatsapp-light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenyambos&layout=whatsapp-light&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=ocean-gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=ocean-gradient"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenyambos&theme=whatsapp-light" alt="Steven's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenyambos&theme=ocean-gradient" alt="Steven's GitHub streak"/>
 </div>
 
 ---
@@ -121,7 +116,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Activity graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenyambos&theme=github-compact&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenyambos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
