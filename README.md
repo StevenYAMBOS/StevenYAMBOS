@@ -103,8 +103,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=ocean-gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=ocean-gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=github-dark-blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github-dark-blue"/>
 </div>
 
 <div align="center">
