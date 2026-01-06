@@ -104,12 +104,12 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenyambos&show_icons=true&theme=github-dark-blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github-dark-blue"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=stevenyambos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenyambos&theme=ocean-gradient" alt="Steven's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=github-dark-blue" alt="Steven's GitHub streak"/>
 </div>
 
 ---
