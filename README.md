@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **low level programming & memory managment**  
+- Learning **iOS for fun**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **shortcuts guru** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,7 +52,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
  <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Rust logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img align="center" alt="Swift logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 </p>
 
 ### Environments
