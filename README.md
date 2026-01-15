@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **server side development**  
+- Learning **server side development and memory management**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **shortcuts guru** 
 - Reach me at: **stevenyambos@gmail.com**
