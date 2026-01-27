@@ -3,7 +3,7 @@
 <h1>Steven YAMBOS</h1>
 <h3>
   <sup>
-    <i>Back End developer
+    <i>Software Engineer
   <br>
   <!-- Content creator -->
     </i>
@@ -51,8 +51,9 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Languages
 
 <p>
-  <img align="center" alt="Rust logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Javascript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rust logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 </p>
 
 ### Environments
