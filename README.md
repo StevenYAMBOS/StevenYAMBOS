@@ -108,7 +108,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=github-dark-blue" alt="Steven's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=holi-theme" alt="Steven's GitHub streak"/>
 </div>
 
 ---
