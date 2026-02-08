@@ -107,19 +107,20 @@ Here are the technologies I work with daily to create efficient, scalable, and u
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+  <!--
+
 <div align="center">
   <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=github-dark-blue" alt="Steven's GitHub streak"/>
 </div>
+-->
 
 ---
 
-  <!--
 ## Activity graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 </div>
-  -->
 
 ---
 
