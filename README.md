@@ -28,7 +28,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=0094d4&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=644097&vCenter=true&pause=1000&size=30&weight=900)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,7 +53,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <p>
   <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Rust logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 </p>
 
 ### Environments
@@ -62,7 +61,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
  <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="UNIX logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
 
-<img align="center" alt="Dotnet logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" />
+<img align="center" alt="Dotnet Core logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </p>
 
 ### Cloud providers
@@ -76,7 +75,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Databases
 
 <p>
-  <img align="center" alt="SQLDeveloper" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="SQLDeveloper" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </p>
@@ -106,12 +105,12 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=stevenyambos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=stevenyambos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=holi-theme" alt="Steven's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=material-palenight" alt="Steven's GitHub streak"/>
 </div>
 
 ---
@@ -119,7 +118,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Activity graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/> 
 </div>
 
 ---
