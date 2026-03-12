@@ -96,8 +96,8 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 | Project | Description | Technologies |
 |---------------|------------|-----------------|
 | [**Waitify**](https://github.com/StevenYAMBOS/waitify-api) | Virtual queue management system | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) |
-| [**Smash Here**](https://smashhere.fr) | E-sport platform | 	[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) |
-| [**stevenyambos.fr**](https://stevenyambos.fr/) | Web portfolio | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) |
+| [**Feedverse**](https://feedverse.app/) |  Feedverse, a social network for fictional worlds | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) |
+| [**stevenyambos.fr**](https://stevenyambos.fr/) | Blog portfolio | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) |
 
 ---
 
