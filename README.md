@@ -28,7 +28,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=0094d4&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=0094d4&vCenter=true&pause=1000&size=22&weight=900)](https://git.io/typing-svg)
 
 </div>
 
