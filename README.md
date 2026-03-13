@@ -28,7 +28,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=0094d4&vCenter=true&pause=1000&size=22&weight=900)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration;Constant+learning&font=Fira%20Code&center=true&width=440&height=45&color=644097&vCenter=true&pause=1000&size=30&weight=900)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,14 +51,14 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Languages
 
 <p>
+  <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Typescript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Javascript logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 </p>
 
 ### Environments
 
 <p>
- <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center" alt="Dotnet Core logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="UNIX logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
 </p>
@@ -66,15 +66,15 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ### Cloud providers
 
 <p>
+  <img align="center" alt="Azur" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"" />
   <img align="center" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="GCP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"" />          
   <img align="center" alt="Digital Ocean" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
 </p>
 
 ### Databases
 
 <p>
-  <img align="center" alt="SQLDeveloper" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="SQLDeveloper" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </p>
@@ -95,21 +95,21 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 | Project | Description | Technologies |
 |---------------|------------|-----------------|
-| [**Waitify**](https://github.com/StevenYAMBOS/waitify-api) | Virtual queue management system | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) |
-| [**Feedverse**](https://feedverse.app/) | Social network for fictional worlds | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) |
-| [**Smash Here**](https://smashhere.fr) | E-sport platform | 	[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) |
+| [**Waitify**](https://github.com/StevenYAMBOS/waitify-api) | Virtual queue management system | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) |
+| [**Feedverse**](https://feedverse.app/) |  Feedverse, a social network for fictional worlds | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) |
+| [**stevenyambos.fr**](https://stevenyambos.fr/) | Blog portfolio | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) |
 
 ---
 
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=stevenyambos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=stevenyambos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stevenyambos&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=holi-theme" alt="Steven's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-teal-theta.vercel.app/?user=stevenyambos&theme=material-palenight" alt="Steven's GitHub streak"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 ## Activity graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/> 
 </div>
 
 ---
