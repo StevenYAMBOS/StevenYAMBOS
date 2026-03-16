@@ -128,7 +128,6 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 <div align="center">
 
-**Email:** [stevenyambos@gmail.com](mailto:stevenyambos@gmail.com)  
 **LinkedIn:** [steven-yambos](https://www.linkedin.com/in/steven-yambos)  
 **Twitter:** [@StevenYambos](https://x.com/StevenYambos)  
 **Website:** [stevenyambos.fr](https://stevenyambos.fr)
