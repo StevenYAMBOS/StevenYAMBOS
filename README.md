@@ -52,7 +52,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
   <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="C++ logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </p>
 
 ### Environments
@@ -61,7 +61,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <img align="center" alt="Dotnet Core logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="UNIX logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
- <img align="center" alt="Unity logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </p>
 
 ### Cloud providers
