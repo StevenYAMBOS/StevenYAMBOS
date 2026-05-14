@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **DSA and memory management**  
+- Learning **Performance and memory management**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **shortcuts guru** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,7 +52,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
   <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Kotlin logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="C++ logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 ### Environments
