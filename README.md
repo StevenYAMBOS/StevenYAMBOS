@@ -24,7 +24,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stevenyambos.fr" target="_blank">
-    <img width="32px" alt="Portfolio" title="Steven YAMBOS - Backend Developer" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" />
+    <img width="32px" alt="Portfolio" title="Steven YAMBOS - Software Engineer" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ## About me
 
 - Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **Performance and Cloud**  
+- Learning **low level programming and game dev**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **shortcuts guru** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,6 +52,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
   <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="C++ logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 ### Environments
@@ -60,6 +61,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 <img align="center" alt="Dotnet Core logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="center" alt="Linux logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="UNIX logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
+ <img align="center" alt="UNIX logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </p>
 
 ### Cloud providers
@@ -114,11 +116,11 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 ---
 
-## Activity graph
+<!-- ## Activity graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenYAMBOS&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/> 
-</div>
+</div> -->
 
 ---
 
