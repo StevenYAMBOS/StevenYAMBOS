@@ -89,6 +89,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
   <img align="center" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Markdown" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
   <img align="center" alt="Bash shell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="Bash shell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-plain-wordmark.svg" />
 </p>
 
 ---
