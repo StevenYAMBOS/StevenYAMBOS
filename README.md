@@ -36,8 +36,8 @@
 
 ## About me
 
-- Currently working on **[Waitify](https://github.com/StevenYAMBOS/waitify-api)** - Virtual queue management system
-- Learning **low level programming concepts**  
+- Currently working on **Electronics**
+- Learning **low level programming and electronics**  
 - Looking to collaborate on **open-source projects**  
 - Fun fact: **shortcuts guru** 
 - Reach me at: **stevenyambos@gmail.com**
@@ -52,7 +52,7 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
   <img align="center" alt="Csharp logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Rust logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img align="center" alt="C logo" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </p>
 
 ### Environments
@@ -68,7 +68,6 @@ Here are the technologies I work with daily to create efficient, scalable, and u
 
 <p>
   <img align="center" alt="Azur" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"" />
-  <img align="center" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Digital Ocean" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
 </p>
 
